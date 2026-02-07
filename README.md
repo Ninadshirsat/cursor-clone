@@ -39,3 +39,7 @@ The focus of this assignment was to closely match the original design’s layout
 ## Live Demo
 
 https://cursor-clone-ruddy.vercel.app/
+
+## 📸 Screenshot
+
+![Resume Screenshot](Screenshot.png)
